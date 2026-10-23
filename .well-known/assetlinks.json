@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ichiroorange_rgb.twa",
+        "sha256_cert_fingerprints": ["CE:4D:9E:C3:D0:BA:4D:63:F6:D6:FC:41:40:C5:30:23:36:1B:F4:88:35:B8:3A:85:95:CE:53:0B:ED:94:E0:BC"]
+      }
+    }]
